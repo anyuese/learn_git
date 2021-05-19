@@ -6,8 +6,9 @@ git is a tool which is used to edit code
 + 远程仓库
 > 如何写入代码
 
-
 >
-'''shell
-mkdir ./data
 
+'''shell
+mkdir \data\test
+'''
+新增一行
