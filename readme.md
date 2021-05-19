@@ -4,3 +4,10 @@ git is a tool which is used to edit code
 #### 第一节 git版本控制
 + 本地仓库
 + 远程仓库
+> 如何写入代码
+
+
+>
+'''shell
+mkdir ./data
+
